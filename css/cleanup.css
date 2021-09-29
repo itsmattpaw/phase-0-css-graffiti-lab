@@ -1,1 +1,25 @@
 /* write your override styles here */
+div .tag-1 {
+    opacity: 0;
+}
+#wall #tag-2 {
+    opacity: 0;
+}
+#wall #tag-3 {
+    opacity: 0;
+}
+.parent #tag-4 {
+    opacity: 0;
+}
+.parent #tag-5 {
+    opacity: 0;
+}
+.parent div #tag-6 {
+    opacity: 0;
+}
+.parent.slick {
+    opacity: 0;
+}
+#tag-7.slick {
+    opacity: 0;
+}
